@@ -2,7 +2,6 @@
 # Graph Neural Network Models from IFM Lab
 ## A list of the latest research papers on graph neural network from IFM Lab<br>
 
-*****************************************************
 
 ### 2020
 ### 1. Graph-Bert: Only Attention is Needed for Learning Graph Representations
