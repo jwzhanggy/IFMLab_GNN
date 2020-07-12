@@ -44,7 +44,12 @@ Published: NIPS Graph Representation Learning Workshop <br>
 Paper URL: https://arxiv.org/abs/1907.09495 <br>
 Code URL: https://github.com/linmengsysu/IsoNN
 
-### 2. Heterogeneous Deep Graph Infomax
+### 2. GResNet: Graph Residual Network for Reviving Deep GNNs from Suspended Animation
+Release Date: September 2019  <br>
+Paper URL: https://arxiv.org/abs/1909.05729 <br>
+Code URL: https://github.com/jwzhanggy/GResNet
+
+### 3. Heterogeneous Deep Graph Infomax
 Release Date: Nov 2019  <br>
 Published: AAAI Deep Learning on Graphs: Methodologies and Applications (DLGMA) Workshop <br>
 Paper URL: https://arxiv.org/abs/1911.08538 <br>
