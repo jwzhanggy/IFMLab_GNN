@@ -39,7 +39,7 @@ Paper URL: https://arxiv.org/abs/2006.06183 <br>
 ### 2019
 
 ### 1. IsoNN: Isomorphic Neural Network for Graph Representation Learning and Classification
-Release Date: Jul 2019  <br>
+Release Date: July 2019  <br>
 Published: NIPS Graph Representation Learning Workshop <br>
 Paper URL: https://arxiv.org/abs/1907.09495 <br>
 Code URL: https://github.com/linmengsysu/IsoNN
@@ -50,7 +50,7 @@ Paper URL: https://arxiv.org/abs/1909.05729 <br>
 Code URL: https://github.com/jwzhanggy/GResNet
 
 ### 3. Heterogeneous Deep Graph Infomax
-Release Date: Nov 2019  <br>
+Release Date: November 2019  <br>
 Published: AAAI Deep Learning on Graphs: Methodologies and Applications (DLGMA) Workshop <br>
 Paper URL: https://arxiv.org/abs/1911.08538 <br>
 Code URL: https://github.com/YuxiangRen/Heterogeneous-Deep-Graph-Infomax
