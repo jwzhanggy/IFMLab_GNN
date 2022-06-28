@@ -2,6 +2,36 @@
 # Graph Neural Network Models from IFM Lab
 ## A list of the latest research papers on graph neural network from IFM Lab<br>
 
+### 2022
+### 1. Iso-CapsNet: Isomorphic Capsule Network for Brain Graph Representation Learning
+Release Date: June 2022 <br>
+Paper URL: https://arxiv.org/abs/2206.13465 <br>
+Code URL: https://github.com/jwzhanggy/IsoCapsNet
+
+*****************************************************
+
+### 2021
+### 1. EnsemFDet: An Ensemble Approach to Fraud Detection based on Bipartite Graph
+Release Date: December 2021 <br>
+Paper URL: https://www.computer.org/csdl/proceedings-article/icde/2021/918400c039/1uGXnraYpck <br>
+Code URL: TBD
+
+### 2. Label Contrastive Coding based Graph Neural Network for Graph Classification
+Release Date: Janurary 2021 <br>
+Paper URL: https://arxiv.org/abs/2101.05486 <br>
+Code URL: TBD
+
+### 3. Fake News Detection on News-Oriented Heterogeneous Information Networks through Hierarchical Graph Attention
+Release Date: Feburary 2021 <br>
+Paper URL: https://arxiv.org/abs/2002.04397 <br>
+Code URL: TBD
+
+### 4. Ripple Walk Training: A Subgraph-based training framework for Large and Deep Graph Neural Network
+Release Date: May 2021 <br>
+Paper URL: https://arxiv.org/abs/2002.07206 <br>
+Code URL: TBD
+
+*****************************************************
 
 ### 2020
 ### 1. Graph-Bert: Only Attention is Needed for Learning Graph Representations
